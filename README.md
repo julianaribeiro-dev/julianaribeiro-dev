@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Hello World.</h1>
 
-<!--
-**julianaribeiro-dev/julianaribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Eu sou Juliana Ribeiro. Estudante de Análise e Desenvolvimento de Sistemas. Atualmente moro em João Pessoa-PB.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ 27/11/1997<br>📚 Estou aprendendo a linguagem Python e aprendendo POO usando Java.<br>🎯 Goals: <br>- Realizar um projeto completo em Python. <br>- Aprender banco de dados.<br>🎲 Fun fact: Sou anestesista veterinária há 3 anos!</p>
+
+###
+
+<h2 align="left">Aperfeiçoando</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+</div>
+
+###
