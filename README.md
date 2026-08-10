@@ -1,47 +1,47 @@
-<h1 align="left">Hello World!</h1>
+<h1 data-importer="text" align="left">Hello World!</h1>
 
 ###
 
-<p align="left">Sou Juliana Ribeiro. Trabalho há 3 anos como anestesista veterinária e atualmente estou em transição de carreira para a área de desenvolvimento web. <br>Estudo Análise e Desenvolvimento de Sistemas na UNIESP em João Pessoa-PB.</p>
-
-###
-
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/juliana-ribeiro-a1a48b406" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<div data-importer="socials" align="left">
+  <a href="www.linkedin.com/in/jmribeirodev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">- Aprendendo Python e POO em Java<br>- Metas atuais: Desenvolver uma calculadora utilizando Python</p>
+<p data-importer="text" align="left">My name is Juliana. I'm a web developer in the making, based in Brazil!<br>I'm currently pursuing an Undergraduate degree in Systems Analysis and Development. <br>I currently work as a veterinary anesthesiologist, but I'm transitioning to the tech industry.<br>I've been around computers since I was young, and I'm passionate about technology, gaming, and tinkering with hardware.</p>
 
 ###
 
-<h2 align="left">Linguagens:</h2>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<p data-importer="text" align="left">✨ Professional bug creator since '97.<br>👩‍⚕️ Vet anesthesiologist → 👩‍💻 Future developer.<br>📚 Currently learning algorithms, logic, and Python.<br>🎯 Goal: Build my first website.<br>🎲 Next learning goals: HTML, CSS, JavaScript, and Java.</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="left">Ferramentas:</h2>
+<h3 data-importer="text" align="left">Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
