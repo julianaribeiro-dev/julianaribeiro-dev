@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Professional bug creator since '97.<br>👩‍⚕️ Vet anesthesiologist → 👩‍💻 Future developer.<br>📚 Currently learning algorithms, logic, and Python.<br>🎯 Goal: Build my first website.<br>🎲 Next learning goals: HTML, CSS, JavaScript, and Java.</p>
+<p data-importer="text" align="left">✨ Professional bug creator since '97.<br>👩‍💻 Future developer.<br>📚 Currently learning algorithms, logic, and Python.<br>🎯 Goal: Build my first website.<br>🎲 Next learning goals: HTML, CSS, JavaScript, and Java.</p>
 
 ###
 
