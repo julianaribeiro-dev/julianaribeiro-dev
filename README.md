@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! I'm Juliana 👋</h1>
+<h1 align="left">Olá! Sou Juliana!</h1>
 
 ###
 
@@ -11,66 +11,47 @@
 ###
 
 <p align="left">
-I'm a Systems Analysis and Development student based in Brazil, currently transitioning from Veterinary Medicine into Technology.<br><br>
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e estou em transição de carreira da Medicina Veterinária para a área de Tecnologia.<br><br>
 
-My professional background taught me a lot about problem-solving, communication, teamwork, organization, and decision-making under pressure.<br><br>
+Minha experiência profissional anterior me ajudou a desenvolver habilidades como comunicação, organização, trabalho em equipe, atenção aos detalhes e tomada de decisão em ambientes de alta demanda.<br><br>
 
-Today, I'm focused on building my career in software development, especially in Python, Backend Development, and Data.
+Atualmente, estou construindo minha base em desenvolvimento de software, com foco principal em <b>Python, Backend e Dados</b>.
 </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <p align="left">
-🐍 Currently learning Python, SQL, and Git/GitHub.<br>
-⚙️ Interested in Backend Development, APIs, and automation.<br>
-📊 Exploring Data Analysis and relational databases.<br>
-🌐 Frontend with JavaScript and React is part of my learning roadmap.<br>
-🎯 Looking for my first professional opportunity in Technology.<br>
-🎮 Passionate about technology, gaming, and computer hardware.
+🐍 Estudando Python, SQL e Git/GitHub.<br>
+⚙️ Interesse em Backend, APIs, automação e desenvolvimento de sistemas.<br>
+📊 Também explorando análise de dados e bancos de dados relacionais.<br>
+🎯 Buscando minha primeira oportunidade profissional em Tecnologia.<br>
+🎮 Gosto de tecnologia, games e hardware.
 </p>
 
 ###
 
-<h2 align="left">Tech</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
 
 ###
 
-<h3 align="left">Tools</h3>
-
-###
+<h3 align="left">Ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
-
-###
-
-<h2 align="left">Current learning path</h2>
-
-###
-
-<p align="left">
-Python → SQL → PostgreSQL → APIs → FastAPI → Data → JavaScript → React
-</p>
-
-###
 
 </p>
