@@ -25,11 +25,11 @@ Atualmente, estou construindo minha base em desenvolvimento de software, com foc
 ###
 
 <p align="left">
-🐍 Estudando Python, SQL e Git/GitHub.<br>
+🐍 Atualmente aprofundando Python, SQL e Git/GitHub.<br>
 ⚙️ Interesse em Backend, APIs, automação e desenvolvimento de sistemas.<br>
-📊 Também explorando análise de dados e bancos de dados relacionais.<br>
+📊 Também estou explorando análise de dados e bancos de dados relacionais.<br>
 🎯 Buscando minha primeira oportunidade profissional em Tecnologia.<br>
-🎮 Gosto de tecnologia, games e hardware.
+🎮 Nerd desde '97.
 </p>
 
 ###
