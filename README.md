@@ -40,6 +40,7 @@ Atualmente, estou construindo minha base em desenvolvimento de software, com foc
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
